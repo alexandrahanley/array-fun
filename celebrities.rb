@@ -13,7 +13,7 @@ end
 
 
 def reverse_celebrity_names(celebs)
-
+celebs.reverse
 end
 
 
@@ -23,7 +23,7 @@ end
 
 
 def first_three_celebrities_without_each(celebs)
-
+celebs[0..2]
 end
 
 
